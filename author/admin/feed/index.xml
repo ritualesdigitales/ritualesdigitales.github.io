@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>https://ritualesdigitales.github.io/wp-content/uploads/2023/06/icono_cris.png</url>
+	<title>admin</title>
+	<link>https://ritualesdigitales.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>¡Hola mundo!</title>
 		<link>https://ritualesdigitales.github.io/2023/06/14/hola-mundo/</link>
